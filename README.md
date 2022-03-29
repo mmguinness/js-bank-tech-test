@@ -16,8 +16,8 @@ npm install jest
 ```
 * Run `node` in terminal to interact with code and require JS files:
 ```
-require './lib/bank'
-require './lib/account'
+require './lib/bankAccount'
+require './lib/transaction'
 require './lib/statement'
 ```
 
